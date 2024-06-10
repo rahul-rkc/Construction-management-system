@@ -1,0 +1,13 @@
+Rahul Township Pvt. Ltd.
+-------------------------
+Customer ID: C002					Date: 2021-10-30
+
+Customer Name: krishna
+Booking ID: B001
+Booking Type: Flat
+Payment Mode: 
+Amount: 20000
+Cheque No: NA
+Account No: NA
+Cheque Date: NA
+Bank Name: NA

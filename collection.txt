@@ -1,0 +1,13 @@
+
+
+                                Nikhil Township Pvt. Ltd.
+                                --------------------------
+
+
+
+ Payment ID     Date of Payment     Payment Type     Booking ID     Booking Type     Payment Mode    Amount    Customer ID    Customer Name
+--------------------------------------------------------------------------------------------------------------------------------------------
+       P001          2021-05-05          partial           B001             Flat          Cash      1000000           C002          krishna
+       P002          2021-05-21          Partial           B001             Flat          Cash       200000           C002          krishna
+       P003          2021-05-21          partial           B002           Duplex          Cash       125000           C001              raj
+       P004          2021-05-29          partial           B002           Duplex          Cash       250000           C001              raj

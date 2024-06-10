@@ -1,0 +1,9 @@
+
+
+                              Nikhil Township Pvt. Ltd.
+                              --------------------------
+
+
+
+        Booking ID     Booking Type     Flat No         Duplex No       Price    Customer ID    Customer Name     Contact No     Address
+       ----------------------------------------------------------------------------------------------------------------------------------
